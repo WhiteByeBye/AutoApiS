@@ -182,20 +182,3 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 * 私有仓库每月累计使用时间为2000分钟，超过后$ 0.008/分钟，公共仓库则无限制。
 
 （我们这里用的公共仓库，按理，你们可以设定无限循环调用，然后6小时启动一次，保证24小时全天候调用）
-
-### 最后 ###
-  教程很直白了，应该都会弄吧！
-  
-  代码小白，多包涵！有问题/修改建议可以点击上方issues发布一下，或者PY给我:
-  wz.lxh@outlook.com
-  
-  Q群：[657581700](https://jq.qq.com/?_wv=1027&k=5FQJbWmV)  （项目相关讨论）
-  
-  tg群：[OneDrive E5](https://t.me/joinchat/OLlK9RsbBlmTYOJS_BU4Mg)   （**非项目相关**讨论！**tg可能不会及时在线回答问题**，任何项目相关的问题或出错请进Q群/邮箱/issue）
-  
-  
-  最后的最后，再次感谢黑幕/paran大佬
-  
-  ————wangziyingwen/酷安id-卷腿毛菌
-
-
